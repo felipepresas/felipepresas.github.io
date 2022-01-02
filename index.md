@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Bienvenido a mi portafolio GitHub 
 
-You can use the [editor on GitHub](https://github.com/felipepresas/felipepresas.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# Felipe Presas Martinez
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Desarrollador Multiplataforma
 
-### Markdown
+### Lenguaje
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- C
+- JS
+- TS
+- DART
 
-```markdown
-Syntax highlighted code block
+### Proyectos
+1. WayHoy
+2. Web React
+3. Android **APP TV**
+4. _Video Games_
 
-# Header 1
-## Header 2
-### Header 3
+[WayHoy url](https://wayhoy.com/)
 
-- Bulleted
-- List
+[Portafolio Url](https://felipepresas.github.io/)
 
-1. Numbered
-2. List
+## Tecnologia
+
+- flutter
+- git
+- unity
+- next
+- react
+- node
+- `npm`
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+![Image](https://wayhoy.com/wp-content/uploads/2020/06/logo104-400x168.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Como fue creado el portafolio
 
-### Jekyll Themes
+Diseñada como una pagina estatica escrita en :
+### Markdown
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/felipepresas/felipepresas.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Markdown es un lenguaje de texto liviano
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
