@@ -31,8 +31,6 @@
 - node
 - `npm`
 
-**Bold** and _Italic_ and `Code` text
-
 ![Image](https://wayhoy.com/wp-content/uploads/2020/06/logo104-400x168.png)
 
 ### Como fue creado el portafolio
