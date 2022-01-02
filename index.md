@@ -1,6 +1,6 @@
-## Bienvenido a mi portafolio GitHub 
+## Felipe Presas Martinez GitHub 
 
-# Felipe Presas Martinez
+#  Welcome
 
 ## Desarrollador Multiplataforma
 
